@@ -1,0 +1,135 @@
+.left {
+	position: absolute; 
+	left: 133px; 
+	top: 540px; 
+	bottom: 90px; 
+	width: 601px; 
+	height: 600px; 
+	border-radius: 8px;
+	overflow: auto; background-color:#ADADAD;
+}
+ 
+ 
+.left1{
+	position: absolute;
+	top: 10px;
+	left: 30px;
+    width: 80%;
+    margin:0px auto;
+    height: 30px;
+    border: 1px ;
+    border-bottom: 2px solid #FF0000;
+    
+}
+
+.left2-1
+{
+	position: absolute;
+	top: 50px;
+	left:30px;
+    width: 150px;
+    height: 170px;
+    margin: 1px;
+    border: 1px ;
+    
+    border-bottom: 2px solid #FF0000;
+}
+.left2-2{
+	position: absolute;
+	top: 53px;
+	right:80px;
+    width: 50%;
+    height: 127px;
+    border: 1px ;
+    border-bottom: 2px solid #FF0000;
+    overflow: hidden;
+}
+.left2-3{
+	position: absolute;
+	top: 94px;
+	right:80px;
+    width: 50%;
+    height: 127px;
+    border: 1px ;
+    border-bottom: 2px solid #FF0000;
+    overflow: hidden;
+}
+.left2-3-1{
+	position: absolute;
+	right: 0px;
+	bottom: 14px;
+	color: #008000;
+}
+.left3-1{
+	position: absolute;
+	top: 230px;
+	left:30px;
+    width: 150px;
+    height: 170px;
+    margin: 1px;
+    border: 1px ;
+    border-bottom: 2px solid #FF0000;
+}
+.left3-2{
+	position: absolute;
+	top: 230px;
+	right:80px;
+    width: 50%;
+    height: 130px;
+    border: 1px ;
+    border-bottom: 2px solid #FF0000;
+    overflow: hidden;
+}
+.left3-3{
+	position: absolute;
+	top:381px;
+	right:80px;
+    width: 50%;
+    height: 20px;
+    border: 1px ;
+    border-bottom: 2px solid #FF0000;
+    overflow: hidden;
+}
+.left3-3-1{
+	position: absolute;
+	right: 0px;
+	bottom: 4px;
+	color: #008000;
+}
+.left4-1{
+	position: absolute;
+	top: 410px;
+	left:30px;
+    width: 150px;
+    height: 170px;
+    margin: 1px;
+    border: 1px ;
+    border-bottom: 2px solid #FF0000
+	
+}
+.left4-2{
+	position: absolute;
+	top: 410px;
+	right:80px;
+    width: 50%;
+    height: 130px;
+    border: 1px ;
+    border-bottom: 2px solid #FF0000;
+    overflow: hidden;
+}
+.left4-3{
+	position: absolute;
+	top:560px;
+	right:80px;
+    width: 50%;
+    height: 20px;
+    border: 1px ;
+    border-bottom: 2px solid #FF0000;
+    overflow: hidden;
+}
+.left4-3-1{
+	position: absolute;
+	right: 0px;
+	bottom: 4px;
+	color: #008000;
+}

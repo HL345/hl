@@ -1,0 +1,45 @@
+
+.main{
+	position: absolute;
+	top: 160px;
+	left: 10%;
+	background-color: beige;
+	width: 80%;
+	height: 280px;
+}
+
+.main-1-1{
+	position: absolute;
+	
+	
+	background-color: beige;
+	width: 80%;
+	height: 80px;
+}
+.main-1-2{
+	position: absolute;
+	
+	left: 20%;
+	background-color: beige;
+	width: 80%;
+	height: 80px;
+	
+}
+.main-1-2-1{
+	position: absolute;
+	top: 170px;
+	right: 10%;
+	background-color: beige;
+	width: 40%;
+}
+
+.main-1-2-1 li{
+	list-style: none;
+}
+.main a
+{
+	text-decoration: none;
+}
+.main a:hover{
+	color: red;
+}

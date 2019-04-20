@@ -1,0 +1,40 @@
+#nav{
+	position: absolute;
+	top: 30px;
+	left:10%;
+    width: 81.5%;
+    margin:60px auto;
+    height: 46px;
+    border-radius: 8px;//边缘圆弧
+    border: 1px solid #2E8B57;
+    border-bottom: 4px solid #FF0000;
+     background: #FFFFFF;
+}
+#nav a{
+    display: block;
+    width: 25%;
+    height: 46px;
+    line-height: 46px;
+    float: left;
+    border-bottom: 4px solid #adadad;
+    text-align: center;
+    text-decoration: none;
+    color: seagreen;
+}
+#nav a:first-child{
+    border-radius: 0 0 0 8px;
+}
+#nav a:last-child{
+    border-radius: 0 0 8px 0;
+}
+#nav a:hover{
+    border-bottom: 4px solid red;
+    color: red;
+}
+#nav a:first-child:hover{
+    border-bottom: 4px solid red;
+    border-radius: 0 0 0 8px;
+}
+#nav a:last-child:hover{
+    border-bottom: 4px solid red;
+}

@@ -1,0 +1,37 @@
+*a{
+	display: block;
+	text-decoration: none;
+}
+.title {
+	position: absolute; 
+	left:0; 
+	width: 100%; top: 0; height: 80px;
+	 background-image:url(../../img/1.jpg);
+	 border-radius: 8px;
+
+}
+.title a{
+	 display: block;
+	 text-decoration: none;
+}
+.t1{
+	position: absolute;
+	top: 20%;
+	left: 15%;
+
+}
+.t2{
+	position: absolute;
+	
+	top:20%;
+	right: 10%;
+}
+.t2 a{
+	display: block;
+	color: #008000;
+	
+	
+}
+.t2 a:hover{
+	color: red; 
+}
